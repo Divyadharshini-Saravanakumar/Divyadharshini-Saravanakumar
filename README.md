@@ -41,6 +41,6 @@
 ---
 
 📁 Check out my recent projects:  
-🎵 [Spotify-Dashboard](#)  
+🎵 [spotify-dashboard](#)  
 
 
