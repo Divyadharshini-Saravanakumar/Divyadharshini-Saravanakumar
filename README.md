@@ -41,7 +41,10 @@
 ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 ---
-![Divya's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyadharshini-Saravanakumar&theme=tokyonight)
+![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyadharshini-Saravanakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Divyadharshini-Saravanakumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadharshini-Saravanakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 ## 🏆 GitHub Trophies
