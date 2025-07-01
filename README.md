@@ -1,15 +1,54 @@
 # 👋 Hi, I'm Divya Dharshini!  
-📊 Aspiring Data Analyst passionate about turning data into actionable insights  
+# 👋 Hi, I'm Divya Dharshini Saravanakumar!
 
-🎓 Studied Business Analytics & Predictive Analytics at Conestoga College, Canada  
-📈 Sharing my journey in data, analytics, and visualization  
-🧠 Currently learning advanced Power BI visuals, Python dashboards, and R forecasting  
-
-🌱 #LearningInPublic through projects on GitHub and dashboards on Power BI  
+🎯 **Aspiring Data Analyst** | Business & Predictive Analytics Graduate | Data Storyteller  
+📍 Cambridge, ON, Canada | 💼 Actively seeking Analyst opportunities
 
 ---
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__divya___dharshini__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-saravanakumar-8a7622222/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyadharshini149@gmail.com) 
+
+### 💡 Data Analyst: Turning Complex Data into Clear Insights
+
+🔭 **Currently Exploring:** Advanced Power BI visuals, Python dashboards, and R forecasting  
+💼 **Previous Experience:**
+- 👩‍💼 HR & Data Analyst Intern – RND Softech (India)
+- 🎓 Business Analytics & Predictive Analytics – Conestoga College, Canada
+- 💰 Cashier – Food Basics (Cambridge, ON)
+
+🌱 **Skills & Tools:**
+`Python` `SQL` `R` `Excel (Advanced + VBA)` `Power BI` `Tableau` `SPSS` `SAS Viya` `SharePoint`  
+✔️ EDA • Forecasting • KPI Dashboards • Data Cleaning • Statistical Modeling • Reporting • CRM tools  
+
+👯‍♀️ **Open to Collaborate On:**  
+- Business Intelligence projects  
+- Power BI dashboards  
+- Time Series or Machine Learning in R/Python  
+
+---
+
+### 🚀 Projects & Dashboards
+
+- 🎵 **Spotify Music Dashboard** – Power BI + HTML visual + Deneb  
+- 📊 **Workforce Cost Optimization** – Excel + Power BI  
+- 🔍 **KYC Case Review** – Power BI (Anti-Money Laundering themed)
+
+👉 *More on GitHub soon!*  
+
+---
+
+### 🌐 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyadharshini149@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadharshini149)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/your-github-username)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__divya___dharshini__) 
+
+💬 **Ask Me About:** Power BI, SQL, Python, Excel, Forecasting  
+📌 **Currently Learning:** Power BI HTML visuals | SQL advanced queries | Time Series in R  
+🌻 **Open To Roles:** Data Analyst | Business Analyst | Project Analyst
+
+---
+
+✨ *“I love transforming raw data into actionable stories that drive decision-making.”*
 
 ---
 ## 💻 Tech Stack
