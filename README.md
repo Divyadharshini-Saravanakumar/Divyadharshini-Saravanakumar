@@ -8,7 +8,10 @@
 🌱 #LearningInPublic through projects on GitHub and dashboards on Power BI  
 
 ---
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__divya___dharshini__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divya Dharshini Saravanakumar  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyadharshini149@gmail.com) 
 
+---
 ## 💻 Tech Stack
 
 ### Languages  
@@ -37,10 +40,13 @@
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
-
 ---
 ![Divya's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyadharshini-Saravanakumar&theme=tokyonight)
 
+---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Divyadharshini-Saravanakumar&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 📁 Check out my recent projects:  
