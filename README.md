@@ -1,4 +1,4 @@
-#👋 Hi, I'm Divya Dharshini!  
+# 👋 Hi, I'm Divya Dharshini!  
 📊 Aspiring Data Analyst passionate about turning data into actionable insights  
 
 🎓 Studied Business Analytics & Predictive Analytics at Conestoga College, Canada  
