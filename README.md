@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Divya Dharshini!  
-# 👋 Hi, I'm Divya Dharshini Saravanakumar!
 
 🎯 **Aspiring Data Analyst** | Business & Predictive Analytics Graduate | Data Storyteller  
 📍 Cambridge, ON, Canada | 💼 Actively seeking Analyst opportunities
