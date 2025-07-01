@@ -39,6 +39,9 @@
 
 
 ---
+![Divya's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyadharshini-Saravanakumar&theme=tokyonight)
+
+---
 
 📁 Check out my recent projects:  
 🎵 [spotify-dashboard](#)  
