@@ -9,9 +9,9 @@
 
 🔭 **Currently Exploring:** Advanced Power BI visuals, Python dashboards, and R forecasting  
 💼 **Previous Experience:**
-- 👩‍💼 HR & Data Analyst Intern – RND Softech (India)
+- 👩‍💼 HR & Data Analyst – RND Softech (India)
 - 🎓 Business Analytics & Predictive Analytics – Conestoga College, Canada
-- 💰 Cashier – Food Basics (Cambridge, ON)
+- 💰 Opperations Associate – Food Basics (Cambridge, ON)
 
 🌱 **Skills & Tools:**
 `Python` `SQL` `R` `Excel (Advanced + VBA)` `Power BI` `Tableau` `SPSS` `SAS Viya` `SharePoint`  
